@@ -1,5 +1,7 @@
 EX-8- Exploration of Prompting Techniques for Video Generation
 
+EXPERIMENT 8: Exploration of Prompting Techniques for Video Generation
+
 Aim:
 
 To explore and understand various prompting techniques used for generating videos through AI models.
@@ -8,26 +10,95 @@ Objective:
 
 To demonstrate how different prompt structures, such as simple prompts and detailed prompts, affect the quality, coherence, creativity, and style of AI-generated videos.
 
-Explanation:
+AI Tool Used:
 
-Create different types of prompts for video generation. Generate videos using AI video generation tools. Analyze differences in: Video quality, Scene consistency, Animation style, Motion and transitions, Creativity
+RunwayML / Pika Labs / Luma AI / Canva AI Video
 
-Suggested AI Video Generation Tools:
+Theory:
 
-RunwayML, Pika Labs, Synthesia, Kaiber AI, Canva AI Video, Luma AI.
+AI video generation models create videos from text prompts. The quality of generated videos depends largely on the prompt structure. Detailed prompts generally provide better scene consistency, motion control, and visual quality compared to simple prompts.
 
-Output:
-The document must contain the following:
+Procedure:
 
-Prompts Used 
+Step 1: Select an AI video generation tool.
 
-AI-generated Videos link 
+Step 2: Create a simple prompt.
 
-Screenshots of generated scenes 
+Step 3: Generate a video using the prompt.
 
-Comparison between simple and detailed prompts 
+Step 4: Create a detailed prompt for the same scenario.
 
-Observations and analysis
+Step 5: Generate a second video.
+
+Step 6: Compare both videos based on quality, consistency, creativity, motion, and style.
+
+Step 7: Record observations and results.
+
+Scenario:
+
+Futuristic City at Sunset
+
+Prompt 1 (Simple Prompt):
+
+"A futuristic city at sunset."
+
+Generated Video Link:
+https://drive.google.com/file/d/1WlI57kIIks9PpWWjvS3pUbDh25q5vXqO/view?usp=sharing
+
+
+Screenshot:
+<img width="1752" height="871" alt="image" src="https://github.com/user-attachments/assets/3ce733e7-b98e-4ad7-b1b6-23c31a41284a" />
+
+
+
+
+
+Prompt 2 (Detailed Prompt):
+
+"A cinematic aerial video of a futuristic smart city during sunset. Tall glass skyscrapers reflect golden sunlight. Flying vehicles move smoothly between buildings. Warm orange and pink skies create a dramatic atmosphere. High-quality cinematic lighting, realistic reflections, smooth camera movement, ultra-HD quality, realistic animation and seamless transitions."
+
+Generated Video Link:
+https://drive.google.com/file/d/1rQk7MRFC7Aa0X9TLntm21kHQCgH6P2P6/view?usp=sharing
+
+Screenshot:
+<img width="1708" height="840" alt="image" src="https://github.com/user-attachments/assets/046a1954-7ef1-4833-9d8f-f27f28e9c515" />
+
+
+
+Comparison Table:
+
+| Feature              | Simple Prompt | Detailed Prompt |
+| -------------------- | ------------- | --------------- |
+| Video Quality        | Average       | High            |
+| Scene Consistency    | Moderate      | Excellent       |
+| Animation Style      | Basic         | Cinematic       |
+| Motion & Transitions | Limited       | Smooth          |
+| Creativity           | Moderate      | High            |
+| Visual Details       | Low           | High            |
+| Realism              | Moderate      | High            |
+
+Observations:
+
+1. The simple prompt generated a basic video with limited scene details.
+2. The detailed prompt produced a more realistic and visually appealing video.
+3. Detailed prompts improved camera movement and transition quality.
+4. Scene consistency was significantly better in the detailed prompt.
+5. The AI followed specific instructions regarding lighting, atmosphere, and motion.
+
+Analysis:
+
+Simple prompts are useful for quick content generation but may result in generic outputs.
+
+Detailed prompts provide:
+
+* Better scene control
+* Improved visual quality
+* Enhanced creativity
+* Consistent animation
+* Realistic motion and transitions
+
+Therefore, prompt specificity directly influences the quality and effectiveness of AI-generated videos.
 
 Result:
-Thus, the prompting techniques for AI video generation were successfully explored and analyzed using multiple prompt structures.
+
+Thus, the prompting techniques for AI video generation were successfully explored and analyzed using multiple prompt structures. It was observed that detailed prompts generated higher-quality, more creative, and more consistent videos compared to simple prompts.
